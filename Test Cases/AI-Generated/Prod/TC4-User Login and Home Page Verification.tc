@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCaseEntity>
+    <comment></comment>
+    <customField>
+        <flow>
+            <id>2b4dc781-e00a-4ddc-bcd0-91b9c45216b3</id>
+        </flow>
+    </customField>
+    <description>Navigate to the login page, enter email, and access the home page. Verify that the home page is displayed correctly.</description>
+    <integratedEntity>
+        <productName>TESTOPS</productName>
+        <properties>
+            <entry>
+                <key>integratedValue</key>
+                <value>{"status": "DRAFT", "source": "User Session"}</value>
+            </entry>
+        </properties>
+        <type>TESTCASE</type>
+    </integratedEntity>
+    <name>TC4-User Login and Home Page Verification</name>
+    <origin>TRUETEST</origin>
+    <tag></tag>
+    <testCaseGuid>2bb780f6-a4a1-45c9-9872-cfabe51accf7</testCaseGuid>
+    <variable>
+        <defaultValue>''</defaultValue>
+        <description>Step 3: Enter input value in input email - (Input data variable)</description>
+        <id>54175715-441d-47db-93f5-368943bfebed</id>
+        <masked>false</masked>
+        <name>input_email</name>
+    </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+4,User Login and Home Page Verification,"Navigate to the login page, enter email, and access the home page. Verify that the home page is displayed correctly.","Step 1: Navigate to /login
+Step 2: Click on input email
+Step 3: Enter input value in input email
+Step 4: Click on div innerWrapper -> Navigate to page ''
+Step 5: Take full page screenshot as checkpoint
+",Low,NEW
+5,Search and Browse Products from Home Page,"From the home page, search for products, browse by category, and view product details. Verify that the home page remains accessible.","Step 1: Navigate to /
+Step 2: Click on div innerWrapper
+Step 3: Enter input value in input search
+Step 4: Click on div shopByCategory -> Navigate to page '/*'
+Step 5: Click on main productDetails -> Navigate to page ''
+Step 6: Take full page screenshot as checkpoint
+",Low,NEW
+6,View Product Variants from Home Page,"Navigate to the home page, search for a product, and view multiple product variants. Verify that the home page is still accessible.","Step 1: Navigate to /
+Step 2: Click on input search
+Step 3: Click on image productVariants (vnbTc88C)
+Step 4: Click on image productVariants (vnbV200Blue)
+Step 5: Click on image productVariants (vnbV88Orange) -> Navigate to page ''
+Step 6: Take full page screenshot as checkpoint
+",Low,NEW

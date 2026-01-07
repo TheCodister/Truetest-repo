@@ -1,0 +1,30 @@
+{
+    "version": "3",
+    "steps": [
+        {
+            "name": "Navigate to /login",
+            "sub_steps": [],
+            "target_name": ""
+        },
+        {
+            "name": "Click on input email",
+            "sub_steps": [],
+            "target_name": "input_email"
+        },
+        {
+            "name": "Enter input value in input email",
+            "sub_steps": [],
+            "target_name": "input_email"
+        },
+        {
+            "name": "Click on div innerWrapper -> Navigate to page ''",
+            "sub_steps": [],
+            "target_name": "div_innerWrapper"
+        },
+        {
+            "name": "Take full page screenshot as checkpoint",
+            "sub_steps": [],
+            "target_name": ""
+        }
+    ]
+}
