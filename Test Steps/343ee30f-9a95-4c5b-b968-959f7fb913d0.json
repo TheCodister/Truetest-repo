@@ -1,0 +1,35 @@
+{
+    "version": "3",
+    "steps": [
+        {
+            "name": "Navigate to /",
+            "sub_steps": [],
+            "target_name": ""
+        },
+        {
+            "name": "Click on div innerWrapper",
+            "sub_steps": [],
+            "target_name": "div_innerWrapper"
+        },
+        {
+            "name": "Enter input value in input search",
+            "sub_steps": [],
+            "target_name": "input_search"
+        },
+        {
+            "name": "Click on div shopByCategory -> Navigate to page '/*'",
+            "sub_steps": [],
+            "target_name": "div_shopByCategory"
+        },
+        {
+            "name": "Click on main productDetails -> Navigate to page ''",
+            "sub_steps": [],
+            "target_name": "main_productDetails"
+        },
+        {
+            "name": "Take full page screenshot as checkpoint",
+            "sub_steps": [],
+            "target_name": ""
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>From the home page, search for products, browse by category, and view product details. Verify that the home page remains accessible.</description>
+   <name>TC5-Search and Browse Products from Home Page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7c861421-af23-4497-b59a-4486f146253a</testCaseGuid>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;status&quot;: &quot;DRAFT&quot;, &quot;source&quot;: &quot;User Session&quot;}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <integratedEntity>
+      <productName>TRUETEST</productName>
+      <properties>
+         <entry>
+            <key>flowId</key>
+            <value>343ee30f-9a95-4c5b-b968-959f7fb913d0</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <origin>TRUETEST</origin>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Step 3: Enter input value in input search - (Input data variable)</description>
+      <id>4e4c1d39-c931-467f-8a69-a13db258e56b</id>
+      <masked>false</masked>
+      <name>input_search</name>
+   </variable>
+   <customField>
+      <flow>
+         <id>343ee30f-9a95-4c5b-b968-959f7fb913d0</id>
+      </flow>
+   </customField>
+</TestCaseEntity>
